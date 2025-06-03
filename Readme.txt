@@ -1,6 +1,22 @@
-Thanks for downloading this template!
+# DEVJAYESH - Personal Portfolio Website
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is my personal portfolio website built using **HTML, CSS, JavaScript, Python, Django, and MySQL**. It is designed to showcase my work, skills, certifications, resume, and contact information in a professional manner.
+
+## 🔥 Features
+
+- Clean and responsive design
+- Projects showcase section
+- Resume download
+- Contact form with backend support
+- Admin panel to update content (Django-based)
+- Integrated with MySQL (or other DB)
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Python, Django
+- **Database:** MySQL (or SQLite for local testing)
+- **Other tools:** Git, VS Code, Cloudinary (optional for media)
+
+## 📁 Project Structure (example)
+
